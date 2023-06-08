@@ -4,8 +4,6 @@
 
 ---
 
-![FFSM2 uplugin](assets/logos/ffsm2-logo-large.png)
-
 # FFSM2 Unreal Engine Plugin
 
 Unreal Engine plugin for [FFSM2](https://flat.hfsm.dev) library.
